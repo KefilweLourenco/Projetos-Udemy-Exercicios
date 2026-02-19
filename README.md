@@ -62,25 +62,25 @@ Repositório com exercícios desenvolvidos durante um curso de JavaScript na Ude
 
 2\_tipos\_de\_dados/
 
-&nbsp;├── 1\_numbers/
+1\_numbers/
 
-&nbsp;├── 2\_operacoes\_aritmeticas/
+2\_operacoes\_aritmeticas/
 
-&nbsp;├── 3\_special\_numbers/
+3\_special\_numbers/
 
-&nbsp;├── 4\_string/
+4\_string/
 
-&nbsp;├── 5\_string\_avancado/
+5\_string\_avancado/
 
-&nbsp;├── 6\_boolean/
+6\_boolean/
 
-&nbsp;├── 7\_boolean\_comparacao/
+7\_boolean\_comparacao/
 
-&nbsp;├── 8\_boolean\_op\_logico/
+8\_boolean\_op\_logico/
 
-&nbsp;└── 9\_boolean\_op\_ternario/
+9\_boolean\_op\_ternario/
 
-&nbsp;Tecnologias utilizadas
+Tecnologias utilizadas
 
 JavaScript
 
@@ -97,8 +97,7 @@ Git
 GitHub
 
 
-
-&nbsp;Como executar
+Como executar
 
 Clone o repositório:
 
